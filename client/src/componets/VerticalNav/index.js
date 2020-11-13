@@ -4,7 +4,6 @@ import GitHub from "../../assets/social_icons_01.png"
 
 const style = {
     maxHeight: "30px",
-    background: "red"
 }
 
 export default function VerticalNav() {
